@@ -1,1 +1,3 @@
 ls - list directory
+cd - change directory
+pwd - path
