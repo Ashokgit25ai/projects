@@ -1,3 +1,10 @@
-ls - list directory
-cd - change directory
-pwd - path
+ls     ->   list directory
+cd     ->   change directory
+pwd    ->    path
+ls -a  ->	show hidden files
+cd     ->   foldername	enter folder
+cd ..  ->   go back one folder
+cd ~   ->   go to home directory
+clear  ->   clear terminal
+mkdir  ->   make new directory
+touch  ->   to create files
