@@ -1,3 +1,4 @@
+### NAVIGATION COMMANDS ###
 ls     ->   list directory
 cd     ->   change directory
 pwd    ->    path
@@ -6,8 +7,7 @@ cd     ->   foldername	enter folder
 cd ..  ->   go back one folder
 cd ~   ->   go to home directory
 clear  ->   clear terminal
-mkdir  ->   make new directory
-touch  ->   to create files
+
 
 ### FILE & FOLDER COMMANDS ###
 touch file.txt → Create file
