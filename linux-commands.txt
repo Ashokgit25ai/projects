@@ -8,3 +8,16 @@ cd ~   ->   go to home directory
 clear  ->   clear terminal
 mkdir  ->   make new directory
 touch  ->   to create files
+
+### FILE & FOLDER COMMANDS ###
+touch file.txt → Create file
+mkdir folder   → Create folder
+mkdir -p a/b/c → Create nested folders
+rm file.txt    → Delete file
+rm -r folder   → Delete folder
+cp file1 file2 → Copy file
+cp -r folder1 folder2 → Copy folder
+mv old new     → Rename/move
+cat file.txt   → View file
+nano file.txt  → Open nano editor
+vim file.txt   → Open vim editor
